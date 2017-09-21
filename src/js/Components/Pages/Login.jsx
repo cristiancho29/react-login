@@ -16,8 +16,8 @@ class Login extends React.Component {
 	 
     constructor () {
         super();
-        this.state = {  email: 'jesusdavide@uninorte.edu.co',
-                        password: '012630032',
+        this.state = {  email: '',
+                        password: '',
                         message:''
                      }
     
